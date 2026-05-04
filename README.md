@@ -1,16 +1,25 @@
-## Hi there 👋
+# Harry Yu
 
-<!--
-**Harry-670/Harry-670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical Engineering, University of Waterloo**
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+$$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_i} \right) - \frac{\partial L}{\partial q_i} = 0 $$
+
+[**N-Link-Pendulum Simulator**](https://github.com/Harry-670/N-link-pendulum-simulator)
+Real-time physics simulation of an n-link pendulum derived using Lagrangian dynamics. Built in C++ utilizing Eigen for mass matrix calculations and system derivations, with ImGui and ImPlot integrated for interactive real-time data visualization.
+
+## Skills
+
+
+**Languages:** C++, C, Python 
+
+**Areas:** PCB Design, Analytical Mechanics, Power Electronics, Computer Graphics, Low-Level Systems.
+
+**Tools:** Altium Designer, OpenGL (GLFW/GLAD/GLM), Eigen, ImGui, ImPlot, LTspice.
+
+## Contact
+
+
+[harry.yu@uwaterloo.ca](mailto:harry.yu@uwaterloo.ca)

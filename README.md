@@ -15,7 +15,7 @@ Real-time physics simulation of an n-link pendulum derived using Lagrangian dyna
 
 **Languages:** C++, C, Python 
 
-**Areas:** PCB Design, Analytical Mechanics, Power Electronics, Computer Graphics, Low-Level Systems.
+**Interest:** PCB Design, Analytical Mechanics, Power Electronics, Computer Graphics.
 
 **Tools:** Altium Designer, OpenGL (GLFW/GLAD/GLM), Eigen, ImGui, ImPlot, LTspice.
 

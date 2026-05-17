@@ -7,7 +7,7 @@
 
 $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_i} \right) - \frac{\partial L}{\partial q_i} = 0 $$
 
-[**N-Link-Pendulum Simulator**](https://github.com/Harry-670/N-link-pendulum-simulator)
+[**N-Link-Pendulum Simulator**](https://github.com/Harry-670/N-link-pendulum-sim)
 Real-time physics simulation of an n-link pendulum derived using Lagrangian dynamics. Built in C++ utilizing Eigen for mass matrix calculations and system derivations, with ImGui and ImPlot integrated for interactive real-time data visualization.
 
 ## Skills

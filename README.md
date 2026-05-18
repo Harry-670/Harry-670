@@ -10,7 +10,7 @@ $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_i} \right) - \frac{\pa
 [**N-Link-Pendulum Simulator**](https://github.com/Harry-670/N-link-pendulum-sim)
 Real-time physics simulation of an n-link pendulum derived using Lagrangian dynamics. Built in C++ utilizing Eigen for mass matrix calculations and system derivations, with ImGui and ImPlot integrated for interactive real-time data visualization.
 
-$$ \ddot{\mathbf{r}}_i = -\sum_{j \neq i} \frac{G m_j (\mathbf{r}_i - \mathbf{r}_j)}{|\mathbf{r}_i - \mathbf{r}_j|^3} $$
+$$ \ddot{\mathbf{r}}_i = -\sum_{j \neq i} \frac{G m_j}{|\mathbf{r}_i - \mathbf{r}_j|^2}\,\hat{r}_{ij} $$
 
 [**Galactic Disc Simulator**](https://github.com/Harry-670/Galactic-Disc-Simulator)
 N-body gravitational simulation of galactic disc dynamics, modelling stellar orbital evolution under a combined bulge, disc, and dark matter halo potential.

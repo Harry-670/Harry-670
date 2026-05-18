@@ -13,7 +13,7 @@ Real-time physics simulation of an n-link pendulum derived using Lagrangian dyna
 $$ \ddot{\mathbf{r}}_i = -\sum_{j \neq i} \frac{G m_j}{|\mathbf{r}_i - \mathbf{r}_j|^2}\,\hat{r}_{ij} $$
 
 [**Galactic Disc Simulator**](https://github.com/Harry-670/Galactic-Disc-Simulator)
-N-body gravitational simulation of galactic disc dynamics, modelling stellar orbital evolution under a combined bulge, disc, and dark matter halo potential.
+Gravitational simulation of galactic disc dynamics, modelling stellar orbital evolution under a combined bulge, disc, and dark matter halo potential.
 
 $$ \nabla \times \mathbf{H} = \varepsilon\frac{\partial \mathbf{E}}{\partial t}, \qquad \nabla \times \mathbf{E} = -\mu_0\frac{\partial \mathbf{H}}{\partial t} $$
 

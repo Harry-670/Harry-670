@@ -10,6 +10,12 @@ $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_i} \right) - \frac{\pa
 [**N-Link-Pendulum Simulator**](https://github.com/Harry-670/N-link-pendulum-sim)
 Real-time physics simulation of an n-link pendulum derived using Lagrangian dynamics. Built in C++ utilizing Eigen for mass matrix calculations and system derivations, with ImGui and ImPlot integrated for interactive real-time data visualization.
 
+[**Galactic Disc Simulator**](https://github.com/Harry-670/Galactic-Disc-Simulator)
+N-body gravitational simulation of galactic disc dynamics, modelling stellar orbital evolution under a combined bulge, disc, and dark matter halo potential.
+
+[**3D FDTD Maxwell Solver**](https://github.com/Harry-670/maxwell-fdtd-solver)
+Full-vector 3D finite-difference time-domain (FDTD) solver for Maxwell's curl equations on an 80³ Yee lattice with convolutional PML (CPML) absorbing boundaries. Simulates broadband EM wave transmission through a dielectric slab and validates against the Fresnel analytic result via a two-run DFT approach.
+
 ## Skills
 
 

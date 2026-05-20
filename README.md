@@ -27,7 +27,7 @@ Full-vector 3D finite-difference time-domain (FDTD) solver for Maxwell's curl eq
 
 **Interest:** PCB Design, Analytical Mechanics, Power Electronics, Computer Graphics.
 
-**Tools:** Altium Designer, OpenGL (GLFW/GLAD/GLM), Eigen, ImGui, ImPlot, LTspice.
+**Tools:** Altium Designer, OpenGL (GLFW/GLAD/GLM), Eigen, ImGui, ImPlot, LTspice, NUmPy, Matplotlib.
 
 ## Contact
 
